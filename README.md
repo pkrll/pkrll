@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My bio is over there 👈. Check out some of my stuff down here 👇 or browse through all my repos up there 👆!
+
 <!--
 **pkrll/pkrll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
