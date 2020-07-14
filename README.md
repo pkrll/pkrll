@@ -6,6 +6,13 @@ I'm Ardi. A bit about myself:
 - I study Computer Science, still dabbling.
 + I work as an iOS developer at @Bontouch, dabbling in macOS development on my spare time.
 ```
+
+Currently I'm
+
+📱 Developing the ComicsWeek app to keep track of the latest comic book releases.
+🎮 Learning game development with SpriteKit and GameplayKit.
+💀 Surviving 2020.
+
 Check out some of my stuff down here 👇 or browse through all my repos up there 👆!
 
 <!--
