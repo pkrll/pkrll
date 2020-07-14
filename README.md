@@ -9,11 +9,9 @@ I'm Ardi. A bit about myself:
 
 #### Currently I'm...
 
-📱 developing the ComicsWeek app to keep track of the latest comic book releases,
-
-🎮 learning game development with SpriteKit and GameplayKit,
-
-💀 ... and just trying to survive 2020.
+- 📱 developing an iOS app to keep track of the latest comic book releases,
+- 🎮 learning game development with SpriteKit and GameplayKit,
+- 💀 ... and just trying to survive 2020.
 
 Check out some of my stuff down here 👇 or browse through all my repos up there 👆!
 
