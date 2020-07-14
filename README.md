@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-My bio is over there 👈. Check out some of my stuff down here 👇 or browse through all my repos up there 👆!
+I'm Ardi. A bit about myself:
+```diff
+- I work as a journalist, dabbling in Apple development.
+- I study Computer Science, still dabbling.
++ I work as an iOS developer at @Bontouch, dabbling in macOS development on my spare time.
+```
+Check out some of my stuff down here 👇 or browse through all my repos up there 👆!
 
 <!--
 **pkrll/pkrll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
