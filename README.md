@@ -1,5 +1,3 @@
-<img src="https://forthebadge.com/images/badges/reading-6th-grade-level.svg" height="30"><a href="https://dev.to/pkrll"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ardalan's DEV Profile" height="30" width="30"></a>
-
 ### Hi there 👋
 
 My bio is over there 👈. Check out some of my stuff down here 👇 or browse through all my repos up there 👆!
