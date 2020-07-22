@@ -13,11 +13,12 @@ I'm Ardalan (or Ardi (or pkrll (pronounced pee-krill (No, I just made that up, b
 
 - 📱 developing an iOS app to keep track of the latest comic book releases,
 - 🎮 learning game development with SpriteKit and GameplayKit,
-- 💀 ... and just trying to survive 2020.
+- 🛠 getting deeper into language design and compilers,
+- 💀 trying to survive 2020.
 
 #### You should
-- ⭐️ Check out some of my stuff down here 👇
-- 🗃 Browse through all my repos up there 👆
+- 📌 Check out some of my stuff down here 👇
+- 🔖 Browse through all my repos up there 👆
 
 <!--
 **pkrll/pkrll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
