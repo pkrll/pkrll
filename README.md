@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Ardi. A bit about myself:
+I'm Ardalan (or Ardi (or pkrll (pronounced pee-krill (No, I just made that up, but I like how it sounds)))).
+
+#### A bit about myself
 ```diff
 - I work as a journalist, dabbling in Apple development.
 - I study Computer Science, still dabbling.
@@ -13,7 +15,9 @@ I'm Ardi. A bit about myself:
 - 🎮 learning game development with SpriteKit and GameplayKit,
 - 💀 ... and just trying to survive 2020.
 
-Check out some of my stuff down here 👇 or browse through all my repos up there 👆!
+#### You should
+- ⭐️ Check out some of my stuff down here 👇
+- 🗃 Browse through all my repos up there 👆
 
 <!--
 **pkrll/pkrll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
