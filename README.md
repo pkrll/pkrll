@@ -12,7 +12,7 @@ I'm Ardalan (or Ardi (or pkrll (pronounced pee-krill (No, I just made that up, b
 #### Currently I'm...
 
 - 📱 developing an iOS app to keep track of the latest comic book releases,
-- 🎮 learning game development with SpriteKit and GameplayKit,
+- 🎮 learning game development (both with SpriteKit and GameplayKit, and with Unity),
 - 🛠 getting deeper into language design and compilers,
 - 💀 trying to survive 2020.
 
